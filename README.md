@@ -29,54 +29,11 @@ Minha abordagem combina código limpo, boas práticas e atenção aos detalhes p
 ### Plataformas & Frameworks Adicionais 🛠️
 ![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 
-## 💼 Projetos em Destaque
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Projeto 1</h3>
-        <div align="center">
-          <a href="https://github.com/luccagoltzman/Assistant" target="_blank">
-            <img src="https://via.placeholder.com/500x300/4a90e2/ffffff?text=Projeto+1" width="400" alt="Projeto 1">
-          </a>
-          <p>
-            <a href="luccagoltzman.github.io/portifolio/#" target="_blank">
-              <img src="https://img.shields.io/badge/Código-ff7851?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="https://github.com/luccagoltzman/commemorative-date" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white">
-            </a>
-          </p>
-          <p><strong>TypeScript, CSS</strong> — Descrição breve do projeto destacando seu impacto e complexidade técnica.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Projeto 2</h3>
-        <div align="center">
-          <a href="LINK_DO_SEU_PROJETO" target="_blank">
-            <img src="https://via.placeholder.com/500x300/6c5ce7/ffffff?text=Projeto+2" width="400" alt="Projeto 2">
-          </a>
-          <p>
-            <a href="LINK_DO_REPOSITÓRIO" target="_blank">
-              <img src="https://img.shields.io/badge/Código-ff7851?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="LINK_DO_DEMO" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white">
-            </a>
-          </p>
-          <p><strong>Angular, Node.js, MongoDB</strong> — Descrição breve do projeto destacando seu impacto e complexidade técnica.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccagoltzman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccagoltzman&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🌱 Sempre Aprendendo
@@ -91,17 +48,17 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
 ## 📫 Vamos Conectar!
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:luccagoltzman@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/lucca-goltzman-20a1b8243/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://SEU_PORTFOLIO.com" target="_blank">
+  <a href="https://luccagoltzman.github.io/portifolio/#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
-  <a href="https://wa.me/SEU_WHATSAPP" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://www.instagram.com/lucca_goltzman/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
