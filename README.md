@@ -65,7 +65,7 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=luccagoltzman&color=blueviolet&style=for-the-badge" alt="Contador de Visitas"/>
 </div>
 
 <div align="center">
