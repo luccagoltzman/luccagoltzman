@@ -23,11 +23,15 @@ Minha abordagem combina código limpo, boas práticas e atenção aos detalhes p
 ### Back-end & Banco de Dados 🔧
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-5f5f5f?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ### Plataformas & Frameworks Adicionais 🛠️
 ![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 Estatísticas GitHub
 
