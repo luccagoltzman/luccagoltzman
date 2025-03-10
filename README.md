@@ -1,7 +1,7 @@
 # 👨‍💻 Desenvolvedor Full Stack | Especialista Front-end
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Front-end&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Front-end;Criando+experiências+digitais+incríveis&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 👋 Sobre Mim
@@ -37,7 +37,17 @@ Minha abordagem combina código limpo, boas práticas e atenção aos detalhes p
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccagoltzman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccagoltzman&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccagoltzman&layout=compact&langs_count=10&hide=html&theme=radical&count_private=true"/>
+</div>
+
+<div align="center">
+  <h3>Tecnologias Utilizadas em Projetos Recentes</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </p>
 </div>
 
 ## 🌱 Sempre Aprendendo
