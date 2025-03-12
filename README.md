@@ -97,8 +97,6 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
     </a>
   </div>
   
-  <img src="https://github.com/luccagoltzman/luccagoltzman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  
   ## 👀 Visualizações do Perfil
   
   <img src="https://komarev.com/ghpvc/?username=luccagoltzman&style=for-the-badge&color=blueviolet" alt="Profile views" />
