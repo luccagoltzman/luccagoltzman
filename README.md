@@ -36,8 +36,10 @@ Minha abordagem combina código limpo, boas práticas e atenção aos detalhes p
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccagoltzman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccagoltzman&layout=compact&langs_count=10&hide=html&theme=radical&count_private=true"/>
+  <a href="https://github.com/luccagoltzman">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luccagoltzman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luccagoltzman&layout=compact&langs_count=10&theme=radical"/>
+  </a>
 </div>
 
 <div align="center">
@@ -91,9 +93,15 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luccagoltzman&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  ## 📈 Contribuições
+  ## �� Contribuições
   
-  ![Snake animation](https://github.com/luccagoltzman/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+    <a href="https://github.com/luccagoltzman">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccagoltzman&theme=radical" />
+    </a>
+    
+    ![Snake animation](https://github.com/luccagoltzman/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
   <img src="https://github.com/luccagoltzman/luccagoltzman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   
