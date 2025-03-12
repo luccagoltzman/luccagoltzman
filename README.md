@@ -85,3 +85,5 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
 <div align="center">
   <strong>💻 Transformando ideias em código. Vamos construir algo incrível juntos! 🚀</strong>
 </div>
+
+ ![Snake animation](https://github.com/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
