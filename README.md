@@ -89,18 +89,12 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=luccagoltzman&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
-  ## 🔥 Streak Stats
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luccagoltzman&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  ## �� Contribuições
+  ## 🔥 Contribuições
   
   <div align="center">
     <a href="https://github.com/luccagoltzman">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccagoltzman&theme=radical" />
     </a>
-    
-    ![Snake animation](https://github.com/luccagoltzman/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   <img src="https://github.com/luccagoltzman/luccagoltzman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
