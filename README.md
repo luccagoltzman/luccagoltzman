@@ -78,7 +78,7 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
   </a>
 </div>
 
----
+<!-- ---
 
 
 ---
@@ -87,7 +87,7 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
   
   ## 🏆 Troféus GitHub
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=luccagoltzman&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=luccagoltzman&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
   
   ## 🔥 Contribuições
   
