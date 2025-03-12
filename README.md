@@ -78,12 +78,30 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
 
 ---
 
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luccagoltzman&color=blueviolet&style=for-the-badge" alt="Contador de Visitas"/>
+  
+  ## 🏆 Troféus GitHub
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=luccagoltzman&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ## 🔥 Streak Stats
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luccagoltzman&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  ## 📈 Contribuições
+  
+  ![Snake animation](https://github.com/luccagoltzman/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://github.com/luccagoltzman/luccagoltzman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  
+  ## 👀 Visualizações do Perfil
+  
+  <img src="https://komarev.com/ghpvc/?username=luccagoltzman&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
 
 <div align="center">
   <strong>💻 Transformando ideias em código. Vamos construir algo incrível juntos! 🚀</strong>
 </div>
-
- ![Snake animation](https://github.com/luccagoltzman/blob/output/github-contribution-grid-snake.svg)
